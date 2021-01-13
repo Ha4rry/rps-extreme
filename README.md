@@ -1,4 +1,4 @@
-# This Is Not a serious program
+# This is a fun program to mess around with.
 
 Its just a Simple Rock Paper Scissors Project.
 
